@@ -1,0 +1,34 @@
+{
+    "students": [
+        {
+            "firstName": "Krish",
+            "lastName": "Lee",
+            "classroom": "A",
+            "notes": {
+                "romana": "10",
+                "matematica": "5",
+                "engleza": "7"
+            }
+        },
+        {
+            "firstName": "racks",
+            "lastName": "jacson",
+            "classroom": "A",
+            "notes": {
+                "romana": "4",
+                "matematica": "8",
+                "engleza": "3"
+            }
+        },
+        {
+            "firstName": "denial",
+            "lastName": "roast",
+            "classroom": "B",
+            "notes": {
+                "romana": "5",
+                "matematica": "7",
+                "engleza": "9"
+            }
+        }
+    ]
+}
